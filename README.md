@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jackbasso
-- 👀 I’m interested in ...python
+- 👀 I’m interested in ...python & javascript
 - 🌱 I’m currently learning ...react
 - 💞️ I’m looking to collaborate on ...your project!
 - 📫 How to reach me ... jackbasso.r@gmail.com / +507 6580-2018
