@@ -17,7 +17,7 @@
   <li> 👀 I’m interested in ... a Full Stack || Backend || Frontend position</li>
 <li> 🌱 I’m currently learning ...MERN Stack && Django Framework </li>
 <li> 💞️ I’m looking to collaborate on ...your project! </li>
-<li> 📫 How to reach me ... jackbasso.r@gmail.com / +507 6580-2018 </li>
+<li> 📫 How to reach me ... jackbasso.r@gmail.com </li>
  </ul>  
 
 
